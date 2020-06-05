@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="MaterialTheme" parent="ParentMaterialTheme">
+		<item name="android:colorEdgeEffect">#F00</item>
+		<!-- Customize for only Lollipop and above version features -->
+		<!--<item name="android:colorEdgeEffect">#F00</item>-->
+	</style>
+</resources>
+
+
+
+
+
+
+
+
+
